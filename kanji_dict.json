@@ -1,0 +1,432 @@
+{
+  "日": {
+    "meanings": ["sun", "day"],
+    "on_reading": "ニチ、ジツ (nichi, jitsu)",
+    "kun_reading": "ひ、か (hi, ka)",
+    "examples": [
+      "日本 (にほん/にっぽん) - Japan",
+      "毎日 (まいにち) - every day",
+      "今日 (きょう) - today"
+    ]
+  },
+  "本": {
+    "meanings": ["book", "origin", "main", "true"],
+    "on_reading": "ホン (hon)",
+    "kun_reading": "もと (moto)",
+    "examples": [
+      "日本 (にほん) - Japan",
+      "本屋 (ほんや) - bookstore",
+      "絵本 (えほん) - picture book"
+    ]
+  },
+  "人": {
+    "meanings": ["person", "people", "human"],
+    "on_reading": "ジン、ニン (jin, nin)",
+    "kun_reading": "ひと (hito)",
+    "examples": [
+      "日本人 (にほんじん) - Japanese person",
+      "人間 (にんげん) - human being",
+      "一人 (ひとり) - one person"
+    ]
+  },
+  "語": {
+    "meanings": ["language", "word", "speech"],
+    "on_reading": "ゴ (go)",
+    "kun_reading": "かた.る、かた.らう (kataru, katarau)",
+    "examples": [
+      "日本語 (にほんご) - Japanese language",
+      "英語 (えいご) - English language",
+      "物語 (ものがたり) - story, tale"
+    ]
+  },
+  "英": {
+    "meanings": ["England", "English", "excellent"],
+    "on_reading": "エイ (ei)",
+    "kun_reading": "はなぶさ (hanabusa)",
+    "examples": [
+      "英語 (えいご) - English language",
+      "英国 (えいこく) - England, UK",
+      "英会話 (えいかいわ) - English conversation"
+    ]
+  },
+  "国": {
+    "meanings": ["country", "nation"],
+    "on_reading": "コク (koku)",
+    "kun_reading": "くに (kuni)",
+    "examples": [
+      "国 (くに) - country",
+      "外国 (がいこく) - foreign country",
+      "中国 (ちゅうごく) - China"
+    ]
+  },
+  "学": {
+    "meanings": ["learning", "study", "science"],
+    "on_reading": "ガク (gaku)",
+    "kun_reading": "まな.ぶ (manabu)",
+    "examples": [
+      "学校 (がっこう) - school",
+      "大学 (だいがく) - university",
+      "学生 (がくせい) - student"
+    ]
+  },
+  "校": {
+    "meanings": ["school", "exam", "printing"],
+    "on_reading": "コウ (kou)",
+    "kun_reading": "",
+    "examples": [
+      "学校 (がっこう) - school",
+      "高校 (こうこう) - high school",
+      "校長 (こうちょう) - principal"
+    ]
+  },
+  "生": {
+    "meanings": ["life", "birth", "student", "raw"],
+    "on_reading": "セイ、ショウ (sei, shou)",
+    "kun_reading": "い.きる、う.まれる、なま (ikiru, umareru, nama)",
+    "examples": [
+      "学生 (がくせい) - student",
+      "先生 (せんせい) - teacher",
+      "人生 (じんせい) - life"
+    ]
+  },
+  "先": {
+    "meanings": ["before", "ahead", "previous", "former"],
+    "on_reading": "セン (sen)",
+    "kun_reading": "さき (saki)",
+    "examples": [
+      "先生 (せんせい) - teacher",
+      "先週 (せんしゅう) - last week",
+      "先月 (せんげつ) - last month"
+    ]
+  },
+  "山": {
+    "meanings": ["mountain"],
+    "on_reading": "サン (san)",
+    "kun_reading": "やま (yama)",
+    "examples": [
+      "山 (やま) - mountain",
+      "富士山 (ふじさん) - Mt. Fuji",
+      "登山 (とざん) - mountain climbing"
+    ]
+  },
+  "川": {
+    "meanings": ["river"],
+    "on_reading": "セン (sen)",
+    "kun_reading": "かわ (kawa)",
+    "examples": [
+      "川 (かわ) - river",
+      "小川 (おがわ) - stream",
+      "河川 (かせん) - rivers"
+    ]
+  },
+  "水": {
+    "meanings": ["water"],
+    "on_reading": "スイ (sui)",
+    "kun_reading": "みず (mizu)",
+    "examples": [
+      "水 (みず) - water",
+      "水曜日 (すいようび) - Wednesday",
+      "水道 (すいどう) - water supply"
+    ]
+  },
+  "火": {
+    "meanings": ["fire"],
+    "on_reading": "カ (ka)",
+    "kun_reading": "ひ (hi)",
+    "examples": [
+      "火 (ひ) - fire",
+      "火曜日 (かようび) - Tuesday",
+      "花火 (はなび) - fireworks"
+    ]
+  },
+  "木": {
+    "meanings": ["tree", "wood"],
+    "on_reading": "ボク、モク (boku, moku)",
+    "kun_reading": "き、こ (ki, ko)",
+    "examples": [
+      "木 (き) - tree",
+      "木曜日 (もくようび) - Thursday",
+      "木材 (もくざい) - lumber"
+    ]
+  },
+  "金": {
+    "meanings": ["gold", "money", "metal"],
+    "on_reading": "キン、コン (kin, kon)",
+    "kun_reading": "かね、かな (kane, kana)",
+    "examples": [
+      "金 (かね) - money",
+      "金曜日 (きんようび) - Friday",
+      "お金 (おかね) - money"
+    ]
+  },
+  "土": {
+    "meanings": ["earth", "soil", "ground"],
+    "on_reading": "ド、ト (do, to)",
+    "kun_reading": "つち (tsuchi)",
+    "examples": [
+      "土 (つち) - soil",
+      "土曜日 (どようび) - Saturday",
+      "土地 (とち) - land"
+    ]
+  },
+  "月": {
+    "meanings": ["moon", "month"],
+    "on_reading": "ゲツ、ガツ (getsu, gatsu)",
+    "kun_reading": "つき (tsuki)",
+    "examples": [
+      "月 (つき) - moon",
+      "月曜日 (げつようび) - Monday",
+      "一月 (いちがつ) - January"
+    ]
+  },
+  "年": {
+    "meanings": ["year"],
+    "on_reading": "ネン (nen)",
+    "kun_reading": "とし (toshi)",
+    "examples": [
+      "年 (とし) - year",
+      "今年 (ことし) - this year",
+      "去年 (きょねん) - last year"
+    ]
+  },
+  "時": {
+    "meanings": ["time", "hour"],
+    "on_reading": "ジ (ji)",
+    "kun_reading": "とき (toki)",
+    "examples": [
+      "時間 (じかん) - time",
+      "三時 (さんじ) - 3 o'clock",
+      "時々 (ときどき) - sometimes"
+    ]
+  },
+  "間": {
+    "meanings": ["interval", "space", "between"],
+    "on_reading": "カン、ケン (kan, ken)",
+    "kun_reading": "あいだ、ま (aida, ma)",
+    "examples": [
+      "時間 (じかん) - time",
+      "空間 (くうかん) - space",
+      "人間 (にんげん) - human"
+    ]
+  },
+  "手": {
+    "meanings": ["hand"],
+    "on_reading": "シュ (shu)",
+    "kun_reading": "て (te)",
+    "examples": [
+      "手 (て) - hand",
+      "手紙 (てがみ) - letter",
+      "上手 (じょうず) - skillful"
+    ]
+  },
+  "足": {
+    "meanings": ["leg", "foot", "sufficient"],
+    "on_reading": "ソク (soku)",
+    "kun_reading": "あし、た.りる (ashi, tariru)",
+    "examples": [
+      "足 (あし) - leg, foot",
+      "満足 (まんぞく) - satisfaction",
+      "遠足 (えんそく) - excursion"
+    ]
+  },
+  "目": {
+    "meanings": ["eye", "look", "class"],
+    "on_reading": "モク、ボク (moku, boku)",
+    "kun_reading": "め (me)",
+    "examples": [
+      "目 (め) - eye",
+      "目的 (もくてき) - purpose",
+      "注目 (ちゅうもく) - attention"
+    ]
+  },
+  "口": {
+    "meanings": ["mouth", "opening"],
+    "on_reading": "コウ、ク (kou, ku)",
+    "kun_reading": "くち (kuchi)",
+    "examples": [
+      "口 (くち) - mouth",
+      "人口 (じんこう) - population",
+      "入口 (いりぐち) - entrance"
+    ]
+  },
+  "心": {
+    "meanings": ["heart", "mind", "spirit"],
+    "on_reading": "シン (shin)",
+    "kun_reading": "こころ (kokoro)",
+    "examples": [
+      "心 (こころ) - heart, mind",
+      "安心 (あんしん) - relief, peace of mind",
+      "中心 (ちゅうしん) - center"
+    ]
+  },
+  "花": {
+    "meanings": ["flower"],
+    "on_reading": "カ (ka)",
+    "kun_reading": "はな (hana)",
+    "examples": [
+      "花 (はな) - flower",
+      "花火 (はなび) - fireworks",
+      "生け花 (いけばな) - flower arrangement"
+    ]
+  },
+  "車": {
+    "meanings": ["car", "vehicle", "wheel"],
+    "on_reading": "シャ (sha)",
+    "kun_reading": "くるま (kuruma)",
+    "examples": [
+      "車 (くるま) - car",
+      "電車 (でんしゃ) - train",
+      "自転車 (じてんしゃ) - bicycle"
+    ]
+  },
+  "門": {
+    "meanings": ["gate", "door"],
+    "on_reading": "モン (mon)",
+    "kun_reading": "かど (kado)",
+    "examples": [
+      "門 (もん) - gate",
+      "専門 (せんもん) - specialty",
+      "正門 (せいもん) - main gate"
+    ]
+  },
+  "食": {
+    "meanings": ["eat", "food", "meal"],
+    "on_reading": "ショク、ジキ (shoku, jiki)",
+    "kun_reading": "た.べる、く.う (taberu, kuu)",
+    "examples": [
+      "食べる (たべる) - to eat",
+      "食事 (しょくじ) - meal",
+      "夕食 (ゆうしょく) - dinner"
+    ]
+  },
+  "飲": {
+    "meanings": ["drink"],
+    "on_reading": "イン、オン (in, on)",
+    "kun_reading": "の.む (nomu)",
+    "examples": [
+      "飲む (のむ) - to drink",
+      "飲食 (いんしょく) - food and drink",
+      "飲料 (いんりょう) - beverage"
+    ]
+  },
+  "大": {
+    "meanings": ["big", "large", "great"],
+    "on_reading": "ダイ、タイ (dai, tai)",
+    "kun_reading": "おお.きい (ookii)",
+    "examples": [
+      "大きい (おおきい) - big",
+      "大学 (だいがく) - university",
+      "大切 (たいせつ) - important"
+    ]
+  },
+  "小": {
+    "meanings": ["small", "little"],
+    "on_reading": "ショウ (shou)",
+    "kun_reading": "ちい.さい、こ、お (chiisai, ko, o)",
+    "examples": [
+      "小さい (ちいさい) - small",
+      "小学校 (しょうがっこう) - elementary school",
+      "小川 (おがわ) - stream"
+    ]
+  },
+  "新": {
+    "meanings": ["new"],
+    "on_reading": "シン (shin)",
+    "kun_reading": "あたら.しい、あら.た、にい (atarashii, arata, nii)",
+    "examples": [
+      "新しい (あたらしい) - new",
+      "新聞 (しんぶん) - newspaper",
+      "新年 (しんねん) - new year"
+    ]
+  },
+  "古": {
+    "meanings": ["old", "ancient"],
+    "on_reading": "コ (ko)",
+    "kun_reading": "ふる.い (furui)",
+    "examples": [
+      "古い (ふるい) - old",
+      "古代 (こだい) - ancient times",
+      "中古 (ちゅうこ) - used, secondhand"
+    ]
+  },
+  "高": {
+    "meanings": ["high", "tall", "expensive"],
+    "on_reading": "コウ (kou)",
+    "kun_reading": "たか.い (takai)",
+    "examples": [
+      "高い (たかい) - high, tall, expensive",
+      "高校 (こうこう) - high school",
+      "最高 (さいこう) - best, highest"
+    ]
+  },
+  "安": {
+    "meanings": ["cheap", "peaceful", "safe"],
+    "on_reading": "アン (an)",
+    "kun_reading": "やす.い (yasui)",
+    "examples": [
+      "安い (やすい) - cheap",
+      "安心 (あんしん) - relief",
+      "不安 (ふあん) - anxiety"
+    ]
+  },
+  "母": {
+    "meanings": ["mother"],
+    "on_reading": "ボ (bo)",
+    "kun_reading": "はは (haha)",
+    "examples": [
+      "母 (はは) - mother",
+      "母親 (ははおや) - mother",
+      "祖母 (そぼ) - grandmother"
+    ]
+  },
+  "父": {
+    "meanings": ["father"],
+    "on_reading": "フ (fu)",
+    "kun_reading": "ちち (chichi)",
+    "examples": [
+      "父 (ちち) - father",
+      "父親 (ちちおや) - father",
+      "祖父 (そふ) - grandfather"
+    ]
+  },
+  "友": {
+    "meanings": ["friend"],
+    "on_reading": "ユウ (yuu)",
+    "kun_reading": "とも (tomo)",
+    "examples": [
+      "友達 (ともだち) - friend",
+      "友人 (ゆうじん) - friend",
+      "親友 (しんゆう) - best friend"
+    ]
+  },
+  "子": {
+    "meanings": ["child", "sign of the rat"],
+    "on_reading": "シ、ス (shi, su)",
+    "kun_reading": "こ (ko)",
+    "examples": [
+      "子供 (こども) - child",
+      "男の子 (おとこのこ) - boy",
+      "女の子 (おんなのこ) - girl"
+    ]
+  },
+  "男": {
+    "meanings": ["man", "male"],
+    "on_reading": "ダン、ナン (dan, nan)",
+    "kun_reading": "おとこ (otoko)",
+    "examples": [
+      "男 (おとこ) - man",
+      "男性 (だんせい) - male",
+      "長男 (ちょうなん) - eldest son"
+    ]
+  },
+  "女": {
+    "meanings": ["woman", "female"],
+    "on_reading": "ジョ、ニョ (jo, nyo)",
+    "kun_reading": "おんな (onna)",
+    "examples": [
+      "女 (おんな) - woman",
+      "女性 (じょせい) - female",
+      "少女 (しょうじょ) - girl"
+    ]
+  }
+}
